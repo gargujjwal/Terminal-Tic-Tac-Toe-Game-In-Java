@@ -34,15 +34,17 @@ Coordinates can only put in the form of x,y without spaces.
 
 ##### Cell Mappings
 
-- (1,1): ![1,1](readme_assets/(1,1).png)
-- (1,2): ![1,2](readme_assets/(1,2).png)
-- (1,3): ![1,3](readme_assets/(1,3).png)
-- (2,1): ![2,1](readme_assets/(2,1).png)
-- (2,2): ![2,2](readme_assets/(2,2).png)
-- (2,3): ![2,3](readme_assets/(2,3).png)
-- (3,1): ![3,1](readme_assets/(3,1).png)
-- (3,2): ![3,2](readme_assets/(3,2).png)
-- (3,3): ![3,3](readme_assets/(3,3).png)
+| Cell Coordinate |             Output              |
+|:---------------:|:-------------------------------:|
+|       1,1       | ![1,1](readme_assets/(1,1).png) |
+|       1,2       | ![1,2](readme_assets/(1,2).png) |
+|       1,3       | ![1,3](readme_assets/(1,3).png) |
+|       2,1       | ![2,1](readme_assets/(2,1).png) |
+|       2,2       | ![2,2](readme_assets/(2,2).png) |
+|       2,3       | ![2,3](readme_assets/(2,3).png) |
+|       3,1       | ![3,1](readme_assets/(3,1).png) |
+|       3,2       | ![3,2](readme_assets/(3,2).png) |
+|       3,3       | ![3,3](readme_assets/(3,3).png) |
 
 ## Contributing
 
