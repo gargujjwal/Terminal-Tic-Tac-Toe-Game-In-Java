@@ -34,45 +34,15 @@ Coordinates can only put in the form of x,y without spaces.
 
 ##### Cell Mappings
 
-
-<div style="display: flex;gap: 30px;flex-wrap: wrap">
-    <div style="display: flex;justify-content: center;align-items: center;gap: 20px">
-        <p>(1,1):</p>
-        <img src="readme_assets/(1,1).png" alt="1,1">
-    </div>
-    <div style="display: flex;justify-content: center;align-items: center;gap: 20px">
-        <p>(1,2):</p>
-        <img src="readme_assets/(1,2).png" alt="1,2">
-    </div>
-    <div style="display: flex;justify-content: center;align-items: center;gap: 20px">
-        <p>(1,3):</p>
-        <img src="readme_assets/(1,3).png" alt="1,3">
-    </div>
-    <div style="display: flex;justify-content: center;align-items: center;gap: 20px">
-        <p>(2,1):</p>
-        <img src="readme_assets/(2,1).png" alt="2,1">
-    </div>
-    <div style="display: flex;justify-content: center;align-items: center;gap: 20px">
-        <p>(2,2):</p>
-        <img src="readme_assets/(2,2).png" alt="2,2">
-    </div>
-    <div style="display: flex;justify-content: center;align-items: center;gap: 20px">
-        <p>(2,3):</p>
-        <img src="readme_assets/(2,3).png" alt="2,3">
-    </div>
-    <div style="display: flex;justify-content: center;align-items: center;gap: 20px">
-        <p>(3,1):</p>
-        <img src="readme_assets/(3,1).png" alt="3,1">
-    </div>
-    <div style="display: flex;justify-content: center;align-items: center;gap: 20px">
-        <p>(3,2):</p>
-        <img src="readme_assets/(3,2).png" alt="3,2">
-    </div>
-    <div style="display: flex;justify-content: center;align-items: center;gap: 20px">
-        <p>(3,3):</p>
-        <img src="readme_assets/(3,3).png" alt="3,3">
-    </div>
-</div>
+- (1,1): ![1,1](readme_assets/(1,1).png)
+- (1,2): ![1,2](readme_assets/(1,2).png)
+- (1,3): ![1,3](readme_assets/(1,3).png)
+- (2,1): ![2,1](readme_assets/(2,1).png)
+- (2,2): ![2,2](readme_assets/(2,2).png)
+- (2,3): ![2,3](readme_assets/(2,3).png)
+- (3,1): ![3,1](readme_assets/(3,1).png)
+- (3,2): ![3,2](readme_assets/(3,2).png)
+- (3,3): ![3,3](readme_assets/(3,3).png)
 
 ## Contributing
 
