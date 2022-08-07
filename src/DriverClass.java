@@ -21,9 +21,9 @@ public class DriverClass {
                 System.out.print("Coordinate: (row,column) ");
                 String[] coordinates = br.readLine().split(",");
                 try {
-                    ticTacToe.setBoard(i == 1 ? 'X' : 'O', Integer.parseInt(coordinates[0]),
-                            Integer.parseInt(coordinates[1]));
-                } catch (ArrayIndexOutOfBoundsException e) {
+                    ticTacToe.setBoard(i == 1 ? 'X' : 'O', Integer.parseInt(coordinates[0]) - 1,
+                            Integer.parseInt(coordinates[1]) - 1);
+                } catch (ArrayIndexOutOfBoundsException | NumberFormatException e) {
                     System.out.println(":( Wrong row and index num!You lost your turn :(");
                 }
                 // changing the value of i
