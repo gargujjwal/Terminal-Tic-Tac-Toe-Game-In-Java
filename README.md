@@ -46,6 +46,8 @@ Coordinates can only put in the form of x,y without spaces.
 |       3,2       | ![3,2](readme_assets/(3,2).png) |
 |       3,3       | ![3,3](readme_assets/(3,3).png) |
 
+[![asciicast](https://asciinema.org/a/513209.svg?autoplay=1&loop=1&theme=monokai&speed=2)](https://asciinema.org/a/513209?autoplay=1&loop=1&theme=monokai&speed=2)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
